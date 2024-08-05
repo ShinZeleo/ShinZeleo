@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p>
 
+- 👨‍💻 I'm currently studying at Universitas Hasanuddin.
+
 - 🌱 I’m currently learning **python, java , C++**
 
 - 💬 Ask me about **Anything**
