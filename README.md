@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imam D. Qhoir (ShinZeleo)</h1>
-<h2 align="center">A passionate programming from Indonesia</h2>
+<h3 align="center">A passionate programming from Indonesia</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p> -->
-<h4 align="center">Visitors:</h4>
+<h5 align="center">Visitors:</h5>
 <div align="center">
   <img src="https://profile-counter.glitch.me/ShinZeleo/count.svg?"  />
 </div>
