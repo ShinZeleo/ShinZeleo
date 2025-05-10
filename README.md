@@ -40,3 +40,6 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
+
+###
