@@ -11,7 +11,7 @@
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
-- 🌱 I’m currently learning ** java , C++ & Cyber Security**
+- 🌱 I’m currently learning **java , C++ & Cyber Security**
 
 - ⚡ Fun fact **I am extremly lazy**
 
