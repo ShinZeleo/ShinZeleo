@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imam D. Qhoir (ShinZeleo)</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ShinZeleo/count.svg?"  />
+</div>
+
+###
+
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
@@ -32,4 +38,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
