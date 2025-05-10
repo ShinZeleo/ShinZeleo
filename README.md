@@ -3,6 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p> -->
 <div align="center">
+  **Visitors:**
   <img src="https://profile-counter.glitch.me/ShinZeleo/count.svg?"  />
 </div>
 
