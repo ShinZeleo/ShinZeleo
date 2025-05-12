@@ -63,13 +63,12 @@
 
 ###
 
-  </div>
-  <div style="margin-left: 20px; text-align: right;">
-    <img height="150" src=".github/workflows/seraph-of-the-end-yuu.gif" style="display: block;" />
-    <img height="150" src=".github/workflows/nonono-anime-no.gif" style="display: block; margin-top: 10px;" />
+  <!-- Gambar di Kanan -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img height="150" src=".github/workflows/seraph-of-the-end-yuu.gif" />
+    <img height="150" src=".github/workflows/nonono-anime-no.gif" />
   </div>
 </div>
-
 ###
 
 <!-- <h3 align="left">Connect with me:</h3>
