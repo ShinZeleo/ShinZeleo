@@ -96,17 +96,20 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
   <!-- Kolom Kiri -->
   <div style="flex: 1; min-width: 300px;">
-    ![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
   </div>
   
   <!-- Kolom Kanan -->
   <div style="flex: 1; min-width: 300px;">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=ShinZeleo&theme=radical&hide_border=false)
+    
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ShinZeleo&theme=radical&hide_border=false)
     <br/>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
 </div>
 ## 🏆GitHub Trophies
+
 ![](https://github-trophies.vercel.app/?username=ShinZeleo&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
