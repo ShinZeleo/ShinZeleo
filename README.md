@@ -8,8 +8,6 @@
 </div>
 
 ###
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1;">
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
@@ -24,7 +22,10 @@
 
 
 ###
-
+<div align="center">
+  <table>
+    <tr>
+<td valign="top" width="60%">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -58,15 +59,19 @@
 <!--   <a href="mailto:imamqhoir28@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
   <a href="https://www.linkedin.com/in/imam-dza-qhoir-647a20246/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+</td>
 
 
 ###
 
-  <!-- Gambar di Kanan -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img height="150" src=".github/workflows/seraph-of-the-end-yuu.gif" />
-    <img height="150" src=".github/workflows/nonono-anime-no.gif" />
-  </div>
+      <td valign="top" width="40%" align="right">
+        <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="150" />
+          <img src=".github/workflows/nonono-anime-no.gif" height="150" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -97,7 +102,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" /> -->
 
 
 ###
