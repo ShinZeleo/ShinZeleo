@@ -22,10 +22,10 @@
 <h2 align="left">I code with</h2>
 
 
-<p align="right">
+<div align="right">
   <img height="150" src=".github\workflows\seraph-of-the-end-yuu.gif" /><br>
   <img height="150" src=".github\workflows\nonono-anime-no.gif" />
-</p>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
