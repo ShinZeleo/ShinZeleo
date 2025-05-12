@@ -22,10 +22,13 @@
 <h2 align="left">I code with</h2>
 
 
-<div align="right">
-  <img height="150" src=".github\workflows\seraph-of-the-end-yuu.gif" /><br>
+<div style="float: right;">
+  <img height="150" src=".github\workflows\seraph-of-the-end-yuu.gif" />
+</div>
+<div style="float: right; margin-top: 10px;">
   <img height="150" src=".github\workflows\nonono-anime-no.gif" />
 </div>
+<div style="clear: both;"></div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
