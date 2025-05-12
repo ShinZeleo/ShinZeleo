@@ -8,9 +8,8 @@
 </div>
 
 ###
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-  <!-- Konten Utama di Kiri -->
-  <div style="flex: 1; min-width: 300px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1;">
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
@@ -69,6 +68,7 @@
     <img height="150" src=".github/workflows/nonono-anime-no.gif" />
   </div>
 </div>
+
 ###
 
 <!-- <h3 align="left">Connect with me:</h3>
