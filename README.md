@@ -66,8 +66,8 @@
 
   <td valign="top" width="40%" align="right">
         <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="150" />
-          <img src=".github/workflows/nonono-anime-no.gif" height="150" />
+          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="250" />
+          <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
         </div>
       </td>
     </tr>
