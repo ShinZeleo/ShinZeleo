@@ -8,7 +8,9 @@
 </div>
 
 ###
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+  <!-- Konten Utama di Kiri -->
+  <div style="flex: 1; min-width: 300px;">
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
@@ -22,13 +24,7 @@
 <h2 align="left">I code with</h2>
 
 
-<div style="float: right;">
-  <img height="150" src=".github\workflows\seraph-of-the-end-yuu.gif" />
-</div>
-<div style="float: right; margin-top: 10px;">
-  <img height="150" src=".github\workflows\nonono-anime-no.gif" />
-</div>
-<div style="clear: both;"></div>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -62,6 +58,16 @@
   <a href="https://discordapp.com/users/693003065359335435" target="blank"><img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
 <!--   <a href="mailto:imamqhoir28@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
   <a href="https://www.linkedin.com/in/imam-dza-qhoir-647a20246/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+
+###
+
+  </div>
+  <div style="margin-left: 20px; text-align: right;">
+    <img height="150" src=".github/workflows/seraph-of-the-end-yuu.gif" style="display: block;" />
+    <img height="150" src=".github/workflows/nonono-anime-no.gif" style="display: block; margin-top: 10px;" />
+  </div>
 </div>
 
 ###
