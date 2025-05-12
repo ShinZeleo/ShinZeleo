@@ -15,17 +15,16 @@
 
 - ⚡ Fun fact **I am extremly lazy**
 
-
 ###
 
 <h2 align="left">I code with</h2>
 
-
 ###
+
 <div align="left">
   <table>
-    <tr>
-<td valign="top" width="60%">
+    <tr style="border: none;">
+<td valign="top" width="70%">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,10 +60,9 @@
 </div>
 </td>
 
-
 ###
 
-  <td valign="top" width="40%" align="right">
+  <td valign="top" width="30%" align="right">
         <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
           <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="250" />
           <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
@@ -94,7 +92,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinzeleo&" alt="shinzeleo" /></p> -->
 
 ###
+
 ###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShinZeleo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShinZeleo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -103,7 +103,6 @@
 ###
 
 <!-- <img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" /> -->
-
 
 ###
 
@@ -114,4 +113,3 @@
 </picture>
 
 ###
-
