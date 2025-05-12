@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+# 💻 I Code With :
 
 
 ###
@@ -30,14 +30,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" alt="haskell logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo" />
 </div>
 
 ###
@@ -91,23 +97,11 @@
 
  
 ###
-# 📊 GitHub Stats
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShinZeleo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <!-- Kolom Kiri -->
-  <div style="flex: 1; min-width: 300px;">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  </div>
-  
-  <!-- Kolom Kanan -->
-  <div style="flex: 1; min-width: 300px;">
-    
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ShinZeleo&theme=radical&hide_border=false)
-    <br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </div>
-</div>
 ## 🏆GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=ShinZeleo&theme=flat&no-frame=false&no-bg=false&margin-w=4)
