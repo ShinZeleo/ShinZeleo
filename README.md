@@ -71,8 +71,8 @@
 ###
 
   <td valign="top" width="30%" align="right">
-        <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="250" />
+        <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
+          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="200" />
           <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
         </div>
       </td>
@@ -108,16 +108,16 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
 
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
