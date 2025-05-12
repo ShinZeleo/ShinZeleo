@@ -65,6 +65,8 @@
 <!--   <a href="mailto:imamqhoir28@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
   <a href="https://www.linkedin.com/in/imam-dza-qhoir-647a20246/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+<br /> 
+<br />
 </td>
 
 
