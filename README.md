@@ -120,13 +120,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShinZeleo&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
 </div>
 
  
 
 
-###
-<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
 
 
 ###
