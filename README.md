@@ -102,7 +102,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinzeleo&" alt="shinzeleo" /></p> -->
 
 <br />
- 
+
+<div align="center">
+  
 ###
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -118,6 +120,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShinZeleo&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+ 
+
 
 ###
 <img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
