@@ -2,9 +2,12 @@
 <h3 align="center">A passionate programming from Indonesia</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p> -->
-<h5 align="center">Visitors:</h5> 
+<br />
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShinZeleo.ShinZeleo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShinZeleo.ShinZeleo&"
+    width="100"
+    height="50"
+    />
 </div>
 
   <br />
