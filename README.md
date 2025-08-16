@@ -19,7 +19,7 @@
 
 - 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
 
-- 🌱 I’m currently learning **java & Cyber Security**
+- 🌱 I’m currently learning **Machine Learning & Cyber Security**
 
 - ⚡ Fun fact **I am extremly lazy**
 
