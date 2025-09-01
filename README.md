@@ -67,12 +67,21 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@qhosans841" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/qhosans_" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://shin-zeleo.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=my_Website&logo=vercel&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
-<!--   <a href="mailto:imamqhoir28@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
-  <a href="https://www.linkedin.com/in/imam-dza-qhoir-116155368/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-<br />
+  <a href="https://www.youtube.com/@qhosans841" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/qhosans_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://shin-zeleo.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=my_Website&logo=vercel&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
+  <a href="mailto:imamqhoir28@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/imam-dza-qhoir-116155368/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 </td>
 
