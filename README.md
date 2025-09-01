@@ -81,7 +81,8 @@
 
   <td valign="top" width="35%" align="right">
         <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
-          <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="300" />
+<!--           <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="300" /> -->
+          <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" height="300" />
           <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
         </div>
       </td>
