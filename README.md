@@ -38,22 +38,22 @@
 <br />
 <br />
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="55" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="55" alt="bootstrap logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="55" alt="nodejs logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="55" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="55" alt="haskell logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="55" alt="npm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="50" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="55" alt="git logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="55" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="55" alt="google logo" />
 </div>
 <br />
@@ -82,7 +82,8 @@
   <td valign="top" width="35%" align="right">
         <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
 <!--           <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="300" /> -->
-          <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" height="300" />
+<!--           <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" height="300" /> -->
+          <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="300" /> 
           <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
         </div>
       </td>
