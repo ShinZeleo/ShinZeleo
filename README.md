@@ -124,7 +124,8 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShinZeleo&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆GitHub Trophies
 
@@ -142,14 +143,9 @@
 
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/pacman-contribution-graph.svg">
-</picture> 
 
-###
 
