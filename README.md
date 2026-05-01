@@ -5,8 +5,6 @@
 <br />
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShinZeleo.ShinZeleo&"
-    width="100"
-    height="50"
     />
 </div>
 
