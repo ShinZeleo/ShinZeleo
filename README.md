@@ -74,7 +74,7 @@
   <a href="https://shin-zeleo.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=my_Website&logo=vercel&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
-  <a href="https://www.linkedin.com/in/imam-dza-qhoir-116155368/">
+  <a href="https://www.linkedin.com/in/imam-dza-qhoir/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
