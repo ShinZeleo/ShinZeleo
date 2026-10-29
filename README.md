@@ -1,149 +1,104 @@
-<h1 align="center">Hi 👋, I'm Imam D. Qhoir (ShinZeleo)</h1>
-<h3 align="center">A passionate programming from Indonesia</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinzeleo&label=Profile%20views&color=0e75b6&style=flat" alt="shinzeleo" /> </p> -->
-<br />
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShinZeleo.ShinZeleo&"
-    />
+
+# Hi 👋, I'm Imam D. Qhoir (ShinZeleo)
+### 🎓 Computer Science Student @ Universitas Hasanuddin (UNHAS)
+**Multimodal AI & Medical Vision-Language Models Researcher | Fullstack & Data Science Enthusiast**
+
+<br />
+
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ShinZeleo.ShinZeleo&)](https://github.com/ShinZeleo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imam%20Dza%20Qhoir-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-dza-qhoir/)
+[![Website](https://img.shields.io/badge/Website-zeleo.my.id-7289DA?style=flat&logo=vercel&logoColor=white)](https://zeleo.my.id/)
+[![Instagram](https://img.shields.io/badge/Instagram-@qhosans__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/qhosans_/)
+[![YouTube](https://img.shields.io/badge/YouTube-@qhosans841-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@qhosans841)
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="600" alt="Coding Banner" />
+
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Undergraduate in **Computer Science / Informatics** at **Universitas Hasanuddin**, Makassar, Indonesia.
+- 🔬 Current Undergraduate Thesis Research: **Selective Prediction for Bilingual Medical Vision-Language Models (VLM)** under English–Indonesian Language Shift.
+- 💡 Research Interests: **Multimodal Foundation Models (VLMs/LLMs)**, **Trustworthy & Safe Medical AI**, **Selective Classification / Abstention Mechanisms**, and **Cross-Lingual Robustness**.
+- 🛠️ Also passionate about modern **Fullstack Web Development** & scalable systems.
+- ⚡ Fun fact: *Coffee, anime, and late-night debugging keep the models training!*
+
+---
+
+### 🔥 Featured Thesis Research
+
+<div align="center">
+
+| 🏥 **[IndoRad-VQA: Visual Sensitivity–Aware Selective Prediction for Medical VLMs](https://github.com/ShinZeleo/Skripshit)** |
+| :--- |
+| *Investigating diagnostic inconsistency (cross-lingual flip) and text prior hallucination (visual ungroundedness) on radiology VQA when shifting from English to Indonesian. Proposing an inference-time selective risk model combining **counterfactual visual deletion sensitivity ($\Delta P_{\text{dir}}$)** and **cross-lingual disagreement ($D_{\text{lang}}$)** to minimize AURC and enable trustworthy clinical referral.* |
+| **Tech:** PyTorch &bull; Transformers &bull; Qwen2.5-VL-7B &bull; HuatuoGPT-Vision-7B &bull; Kaggle Dual T4 &bull; Scikit-Learn &bull; IndoRad-VQA |
+
+</div>
+
+---
+
+### 💻 Tech Stack & Tooling
+
+<div align="center">
+
+#### 🧠 Multimodal AI, Deep Learning & Data Science
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+#### 🌐 Software Engineering & Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+
+#### ⚙️ Platforms & DevOps
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="ShinZeleo GitHub Stats" />
   <br />
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShinZeleo&theme=transparent&hide_border=false" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-trophies.vercel.app/?username=ShinZeleo&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-###
-
-- 👨‍💻 I'm currently studying at **Universitas Hasanuddin**.
-
-- 🌱 I’m currently learning **Data Science & Fullstack Dev**
-
-- ⚡ Fun fact **I am extremly lazy**
-
-<br />
-
-###
-
-# 💻 I Code With :
-
-
-###
-<div align="left">
-  <table>
-    <tr style="border: none;">
-<td valign="top" width="65%">
-<br />
-<br />
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="55" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="55" alt="bootstrap logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="55" alt="nodejs logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="55" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="55" alt="haskell logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="55" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="50" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="intellij logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="55" alt="git logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="55" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="55" alt="google logo" />
-</div>
-<br />
-  
-###
-
-
----
-
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@qhosans841">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/qhosans_">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://zeleo.my.id/">
-    <img src="https://img.shields.io/static/v1?message=my_Website&logo=vercel&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/imam-dza-qhoir/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-</td>
-
-
-###
-
-  <td valign="top" width="35%" align="right">
-        <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
-<!--           <img src=".github/workflows/seraph-of-the-end-yuu.gif" height="300" /> -->
-<!--           <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" height="300" /> -->
-          <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="300" /> 
-          <!-- <img src=".github/workflows/nonono-anime-no.gif" height="150" /> -->
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left"> -->
-<!-- <a href="https://codepen.io/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=".." height="30" width="40" /></a> -->
-<!-- <a href="https://linkedin.com/in/..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="..." height="30" width="40" /></a> -->
-<!-- <a href="https://stackoverflow.com/users/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt=".." height="30" width="40" /></a> -->
-<!-- <a href="https://codesandbox.com/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt=".." height="30" width="40" /></a> -->
-<!-- <a href="https://www.instagram.com/qhosans_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".." height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=".." height="30" width="40" /></a> -->
-<!-- <a href="https://discord.gg/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".." height="30" width="40" /></a>
-</p> -->
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinzeleo&show_icons=true&locale=en" alt="shinzeleo" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinzeleo&" alt="shinzeleo" /></p> -->
 
 <br />
 
 <div align="center">
-  
-###
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ShinZeleo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShinZeleo&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinZeleo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=ShinZeleo&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=ShinZeleo&icon=0&color=0)](https://visitcount.itsvg.in)
-###
-<img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/ShinZeleo/ShinZeleo/output/snake.svg" alt="Snake animation" />
 </div>
 
+<br />
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-
-
-
+---
+<div align="center">
+  <i>"Transforming curious ideas into mathematically rigorous models."</i> &bull; <b>Imam D. Qhoir</b>
+</div>
